@@ -52,3 +52,18 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 1. Zheyu Yan, Yifan Qin, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**Best Paper**)(2 out of 750 submissions).
 
+# Chip Demo
+
+* 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK
+
+High efficiency CNN accelerator for VA detection demo, full stack design from UI, front-end to back-end. For each patient, the accelerator processes 6 files (512 data points/file, 250Hz sample rate) and vote for the final diagnosis.
+
+<p align="left">
+  <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
+  <img src="/images/VA(HK)_demo4.png" alt="chip" width="22%">
+</p>
+
+<p align="left">
+  <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
+  <img src="/images/VA(HK)_demo2.png" alt="me" width="30%">
+</p>
