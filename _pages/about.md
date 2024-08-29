@@ -38,6 +38,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * A talk is given in Electrical engineering department, Zhejiang University (ZJU), Aug 2024.
 * A talk is given in University of Michigan – Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University (SJTU), Aug 2024.
 * A talk is given in Electrical engineering department, Southern University of Science and Technology (SUSTech), July 2024.
+* A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), HK, June 2024.
 
 
 # Publications
