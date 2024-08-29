@@ -32,6 +32,14 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * 🎉️Our `paper` is accepted by **IEEE Transactions on Electron Devices** !
   *Design of high robustness BNN inference accelerator based on binary memristors*
 
+# Talks
+
+* A talk is given in Computer science department, Shandong University (SDU), Aug 2024.
+* A talk is given in Electrical engineering department, Zhejiang University (ZJU), Aug 2024.
+* A talk is given in University of Michigan – Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University (SJTU), Aug 2024.
+* A talk is given in Electrical engineering department, Southern University of Science and Technology (SUSTech), July 2024.
+
+
 # Publications
 
 **Journal**
