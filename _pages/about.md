@@ -42,9 +42,11 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 **Conference**
 
-1. Likai Pei\*, Yifan Qin\*, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. (\*Equal contribution) (Accepted by ICCAD 2024)
+1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2024.
 
-1. Yifan Qin, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: arXiv preprint arXiv:2406.06544 (2024). (Accepted by ICCAD 2024)
+1. Likai Pei\*, Yifan Qin\*, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024. (\*Equal contribution)
+
+1. Yifan Qin, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.
 
 1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Negative Feedback Training: A Novel Concept to Improve Robustness of NVCiM DNN Accelerators”. In: arXiv preprint arXiv:2305.14561 (2023). (Under review)
 
