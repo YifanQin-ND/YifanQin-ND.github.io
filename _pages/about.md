@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am a 2nd-year PhD student from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes computing-in-momory (CIM), non-volatile AI accelerator, and AI computing for medicial purpose. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received BS and MS degree from Huazhong University of Science and Technology.
+I am a 3nd-year PhD student from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes computing-in-momory (CIM), non-volatile AI accelerator, and AI computing for medicial purpose. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received BS and MS degree from Huazhong University of Science and Technology.
 
 You can find my CV [here](/files/Yifan_CV.pdf).
 
