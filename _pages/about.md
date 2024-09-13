@@ -40,6 +40,10 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * A talk is given in Electrical engineering department, Southern University of Science and Technology (SUSTech), July 2024.
 * A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), HK, June 2024.
 
+<p align="left">
+  <img src="/images/meeting.png" alt="demo" width="50%">
+</p>
+
 
 # Publications
 
@@ -76,5 +80,5 @@ High efficiency CNN accelerator for VA detection demo, full stack design from UI
 
 <p align="left">
   <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
-  <img src="/images/VA(HK)_demo2.png" alt="me" width="30%">
+<!--   <img src="/images/VA(HK)_demo2.png" alt="me" width="30%"> -->
 </p>
