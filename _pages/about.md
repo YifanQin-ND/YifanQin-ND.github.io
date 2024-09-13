@@ -76,9 +76,10 @@ High efficiency CNN accelerator for VA detection demo, full stack design from UI
 <p align="left">
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
   <img src="/images/VA(HK)_demo4.png" alt="chip" width="22%">
+  <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
 </p>
 
 <p align="left">
-  <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
+<!--   <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%"> -->
 <!--   <img src="/images/VA(HK)_demo2.png" alt="me" width="30%"> -->
-</p>
+<!-- </p> -->
