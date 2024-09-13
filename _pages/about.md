@@ -41,7 +41,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), HK, June 2024.
 
 <p align="left">
-  <img src="/images/meeting.png" alt="demo" width="50%">
+  <img src="/images/meeting.png" alt="talk" width="50%">
 </p>
 
 
