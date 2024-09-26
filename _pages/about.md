@@ -17,6 +17,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # News
 
+* 🎉️Our `paper` is accepted by **ASP-DAC 2025** !
+  *A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection*
 * 🎉️Our `paper` is accepted by **ICCAD 2024** !
   *TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators*
 * 🎉️Our `paper` is accepted by **ICCAD 2024** !
@@ -54,6 +56,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 3. Yifan Qin, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices 67.8 (2020), pp. 3435–3441.
 
 **Conference**
+
+1. Yifan Qin, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2024.
 
