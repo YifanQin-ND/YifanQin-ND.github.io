@@ -59,7 +59,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 1. Yifan Qin, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
-1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2024.
+1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2024. (Invited paper)
 
 1. Likai Pei\*, Yifan Qin\*, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024. (\*Equal contribution)
 
