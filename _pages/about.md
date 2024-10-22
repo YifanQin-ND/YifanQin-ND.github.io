@@ -71,7 +71,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 1. Zheyu Yan, Yifan Qin, Xiaobo Sharon Hu, and Yiyu Shi. “On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators”. In: 2023 IEEE 36th International System-on-Chip Conference (SOCC). IEEE. 2023, pp. 1–6.
 
-1. Zheyu Yan, Yifan Qin, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**2023 William J. McCalla Best Paper Award**)(2 out of 750 submissions).
+1. Zheyu Yan, Yifan Qin, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**<font color="Blue">2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions).
 
 # Chip Demo
 
