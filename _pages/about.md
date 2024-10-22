@@ -22,7 +22,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * 🎉️Our `paper` is selected as the <font color=Blue>Best Paper Candidate</font> in **ICCAD 2024** !
   *Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks*
 * 🎉️Our `paper` is accepted by **ASP-DAC 2025** !
-  *A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection*
+  *A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection*
 * 🎉️Our `paper` is accepted by **ICCAD 2024** !
   *TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators*
 * 🎉️Our `paper` is accepted by **ICCAD 2024** !
@@ -61,7 +61,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 **Conference**
 
-1. Yifan Qin, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
+1. Yifan Qin, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 1. Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi and Ningyuan Cao, “A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference,” in Proc. of IEEE International Solid- State Circuits Conference (ISSCC), 2025.
 
