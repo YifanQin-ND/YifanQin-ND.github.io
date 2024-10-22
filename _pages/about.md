@@ -56,7 +56,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 **Journal**
 
 1. Han Bao, Yifan Qin, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In:Frontiers in Electronics 3 (2022), p. 954661.
-2. Yifan Qin, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convo- lutional neural networks for edge intelligence”. In:Advanced Intelligent Systems 2.11 (2020), p. 2000114. (**Back Cover**).
+2. Yifan Qin, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convo- lutional neural networks for edge intelligence”. In:Advanced Intelligent Systems 2.11 (2020), p. 2000114. (**<font color=Blue>Back Cover</font>**).
 3. Yifan Qin, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices 67.8 (2020), pp. 3435–3441.
 
 **Conference**
