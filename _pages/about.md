@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am a 3nd-year PhD student from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes computing-in-momory (CIM), non-volatile AI accelerator, and AI computing for medicial purpose. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received BS and MS degree from Huazhong University of Science and Technology.
+I am a 3nd-year PhD student from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust AI, software/hardware codesign, AI accelerator, and efficient LLM. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received BS and MS degree from Huazhong University of Science and Technology.
 
 You can find my CV [here](/files/Yifan_CV.pdf).
 
@@ -44,12 +44,15 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * A talk is given in Electrical engineering department, Zhejiang University (ZJU), Aug 2024.
 * A talk is given in University of Michigan – Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University (SJTU), Aug 2024.
 * A talk is given in Electrical engineering department, Southern University of Science and Technology (SUSTech), July 2024.
-* A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), HK, June 2024.
+* A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong University of Science and Technology (HKUST), June 2024.
 
 <p align="center">
   <img src="/images/meeting.jpg" alt="talk" width="50%">
 </p>
 
+# Experiences
+
+* Intern - AI Chip Center for Emerging Smart Systems, Hong Kong University of Science and Technology (HKUST), May 2024 - July 2024.
 
 # Publications
 
@@ -81,7 +84,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 * 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK
 
-High efficiency CNN accelerator for VA detection demo, full stack design from UI, front-end to back-end. For each patient, the accelerator processes 6 files (512 data points/file, 250Hz sample rate) and vote for the final diagnosis.
+Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Led the full-stack design, from UI to backend, achieving substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.
 
 <p align="left">
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
