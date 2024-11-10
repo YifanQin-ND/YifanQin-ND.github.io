@@ -52,7 +52,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Experiences
 
-* Intern - AI Chip Center for Emerging Smart Systems, Hong Kong University of Science and Technology (HKUST), May 2024 - July 2024.
+* Intern - AI Chip Center for Emerging Smart Systems(ACCESS), Hong Kong University of Science and Technology (HKUST), May 2024 - July 2024.
+* Research Assistant - Huazhong University of Science and Technology (HUST), August 2018 - June 2022.
 
 # Publications
 
