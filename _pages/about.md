@@ -52,8 +52,21 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Experiences
 
-* Intern - AI Chip Center for Emerging Smart Systems(ACCESS), Hong Kong University of Science and Technology (HKUST), May 2024 - July 2024.
-* Research Assistant - Huazhong University of Science and Technology (HUST), August 2018 - June 2022.
+* **AI Chip Intern**  
+  *AI Chip Center for Emerging Smart Systems (ACCESS)*  
+  Hong Kong University of Science and Technology | May 2024 - July 2024  
+  - Designed CNN-based arrhythmia detection accelerator
+  - Achieved 150 GOPS/W energy efficiency
+  - Led full-stack optimization from algorithm to chip implementation
+
+  **Project Demo**  
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114140735604444&bvid=BV1LkRjYDEJB&cid=28803007939&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+* **Research Assistant**  
+  Huazhong University of Science and Technology | Aug 2018 - Jun 2022  
+  - Memristor-based AI accelerator design
+  - Published 2 first-author papers (one backcover)
+  - Developed robustness enhancement techniques
 
 # Publications
 
