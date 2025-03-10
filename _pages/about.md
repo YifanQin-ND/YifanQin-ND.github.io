@@ -60,8 +60,19 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   - Led full-stack optimization from algorithm to chip implementation
 
   **Project Demo**  
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114140735604444&bvid=BV1LkRjYDEJB&cid=28803007939&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+  <div class="video-container" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+            frameborder="0" 
+            allowfullscreen
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+    </iframe>
+  </div>
+  <p style="text-align:center;color:#666;font-size:0.9em;margin-top:-5px;">
+    <a href="https://www.bilibili.com/video/BV1LkRjYDEJB" target="_blank" style="color:#00a1d6;text-decoration:none;">
+      🎥 Alternate access on Bilibili
+    </a>
+  </p>
 * **Research Assistant**  
   Huazhong University of Science and Technology | Aug 2018 - Jun 2022  
   - Memristor-based AI accelerator design
