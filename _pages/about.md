@@ -55,24 +55,10 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * **AI Chip Intern**  
   *AI Chip Center for Emerging Smart Systems (ACCESS)*  
   Hong Kong University of Science and Technology | May 2024 - July 2024  
-  - Designed CNN-based arrhythmia detection accelerator
+  - CNN-based arrhythmia detection accelerator
   - Achieved 150 GOPS/W energy efficiency
   - Led full-stack optimization from algorithm to chip implementation
 
-  **Project Demo**  
-  <div class="video-container" style="position:relative;padding-bottom:40%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
-            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-            frameborder="0" 
-            allowfullscreen
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
-    </iframe>
-  </div>
-  <p style="text-align:center;color:#666;font-size:0.9em;margin-top:-5px;">
-    <a href="https://www.bilibili.com/video/BV1LkRjYDEJB" target="_blank" style="color:#00a1d6;text-decoration:none;">
-      🎥 Alternate access on Bilibili
-    </a>
-  </p>
 * **Research Assistant**  
   Huazhong University of Science and Technology | Aug 2018 - Jun 2022  
   - Memristor-based AI accelerator design
@@ -118,3 +104,16 @@ Designed and implemented a convolutional neural network system for ventricular a
 <!--   <img src="/images/VA(HK)_demo2.png" alt="me" width="30%"> -->
 </p>
 
+<div class="video-container" style="position:relative;padding-bottom:40%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+            frameborder="0" 
+            allowfullscreen
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+    </iframe>
+  </div>
+  <p style="text-align:center;color:#666;font-size:0.9em;margin-top:-5px;">
+    <a href="https://www.bilibili.com/video/BV1LkRjYDEJB" target="_blank" style="color:#00a1d6;text-decoration:none;">
+      🎥 Alternate access on Bilibili
+    </a>
+  </p>
