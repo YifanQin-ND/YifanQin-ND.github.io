@@ -140,12 +140,12 @@ Designed and implemented a convolutional neural network system for ventricular a
   <p align="center">
   <img src="/images/wuhanmu.png" alt="museum" width="40%">
   <img src="/images/painting.png" alt="painting" width="34%">
-</p>
+  </p>  
 
   - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  (PIC: Artifact)  
   <p align="center">
   <img src="/images/artifact.png" alt="artifact" width="35%">
-</p>
+  </p>
     
 # Interesting things about me  
 
