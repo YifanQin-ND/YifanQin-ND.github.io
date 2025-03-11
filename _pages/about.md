@@ -95,16 +95,18 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Chip Demo
 
-* 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK
+* 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK  
 
-Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Led the full-stack design, from UI to backend, achieving substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.
+  Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Led the full-stack design, from UI to backend, achieving substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.  
 
-<p align="left">
+  <p align="left">
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
   <img src="/images/VA(HK)_demo4.png" alt="chip" width="22%">
   <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
 <!--   <img src="/images/VA(HK)_demo2.png" alt="me" width="30%"> -->
 </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v08EoR8vLf0?si=Ba65_yOVjUWwo1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="video-container" style="position:relative;padding-bottom:40%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
     <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
@@ -119,6 +121,12 @@ Designed and implemented a convolutional neural network system for ventricular a
       🎥 Alternate access on Bilibili
     </a>
   </p>
+
+* 02/2025 **A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference** ——ISSCC conference, SF  
+  65nm Bayesian Convolutional Neural Network (Bayes-CNN) accelerator for VA detection, delivering low-power and UQ-enabled VA detection, ensuring reliable performance under out-of-distribution data, hardware imperfections and temperature variations. Led the software algorithm part and engaged in UI and hardware design.
+  <p align="center">
+  <img src="/images/ISSCCdemo.jpg" alt="isscc demo" width="40%">
+  </p>  
 
 # Leadership and service  
 
