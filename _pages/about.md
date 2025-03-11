@@ -152,8 +152,17 @@ Designed and implemented a convolutional neural network system for ventricular a
 * One of my competition paintings was included in the Hubei Province Art Textbook (China People's Education Press).
 * My favorite sport before high school was table tennis, and in high school I liked to play soccer ball with my friends.
 * I like drawing and writing, things that involve imagination.
-* I like spending time with my friends in GYM.  
+* I like spending time with my friends in GYM.
+
+*My Highschool*
 <p align="center">
-  <img src="/images/travel.jpg" alt="travel" width="35%">
+  <img src="/images/highschool.jpg" alt="highschool" width="30%">
+</p>   
+
+*My PhD*  
+<p align="center">
+  <img src="/images/travel.jpg" alt="travel" width="30%">
 </p>  
 
+*"风筝不断线" --- Guanzhong Wu*  
+*"The higher the kite soars into boundless skies, the freer its dance becomes—yet must never sever its tether, for that slender thread weaves an ethereal bond between me and the people, spanning a thousand miles of silent communion."*  
