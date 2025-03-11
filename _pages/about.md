@@ -61,8 +61,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
   **Project Demo**  
   <div class="video-container" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB&autoplay=false" 
-            style="position:absolute;top:0;left:0;width:200%;height:200%;" 
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
             frameborder="0" 
             allowfullscreen
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
