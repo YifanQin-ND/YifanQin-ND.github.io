@@ -104,29 +104,17 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   <img src="/images/VA(HK)_demo4.png" alt="chip" width="22%">
   <img src="/images/VA(HK)_demo1.png" alt="ui" width="43%">
 <!--   <img src="/images/VA(HK)_demo2.png" alt="me" width="30%"> -->
-</p>
+</p>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v08EoR8vLf0?si=Ba65_yOVjUWwo1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div class="video-container" style="position:relative;padding-bottom:40%;height:0;overflow:hidden;max-width:800px;margin:20px auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1LkRjYDEJB" 
-            style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-            frameborder="0" 
-            allowfullscreen
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
-    </iframe>
-  </div>
-  <p style="text-align:center;color:#666;font-size:0.9em;margin-top:-5px;">
-    <a href="https://www.bilibili.com/video/BV1LkRjYDEJB" target="_blank" style="color:#00a1d6;text-decoration:none;">
-      🎥 Alternate access on Bilibili
-    </a>
-  </p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/v08EoR8vLf0?si=Ba65_yOVjUWwo1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 * 02/2025 **A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference** ——ISSCC conference, SF  
   65nm Bayesian Convolutional Neural Network (Bayes-CNN) accelerator for VA detection, delivering low-power and UQ-enabled VA detection, ensuring reliable performance under out-of-distribution data, hardware imperfections and temperature variations. Led the software algorithm part and engaged in UI and hardware design.
   <p align="center">
   <img src="/images/ISSCCdemo.jpg" alt="isscc demo" width="40%">
   </p>  
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-oKsR74Ogl8?si=F3l1_1K_oRkFraWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 # Leadership and service  
 
