@@ -17,25 +17,23 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # News
 
-* 🎉️Our `paper` is accepted by **ISSCC 2025** !
+* `ISSCC` Our paper is accepted by **ISSCC 2025** !
   *A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference*
-* 🎉️Our `paper` is selected as the <font color=Blue>Best Paper Candidate</font> in **ICCAD 2024** !
+* `ICCAD` Our paper is selected as the <font color=Blue>Best Paper Candidate</font> in **ICCAD 2024** !
   *Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks*
-* 🎉️Our `paper` is accepted by **ASP-DAC 2025** !
+* `ASP-DAC` Our paper is accepted by **ASP-DAC 2025** !
   *A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection*
-* 🎉️Our `paper` is accepted by **ICCAD 2024** !
+* `ICCAD` Our paper is accepted by **ICCAD 2024** !
   *TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators*
-* 🎉️Our `paper` is accepted by **ICCAD 2024** !
+* `ICCAD` Our paper is accepted by **ICCAD 2024** !
   *Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks*
-* 🎉️I give a `talk` on [ACCESS summer school](https://inno-access.hk/news/access-launch-its-first-summer-school) !
-* 🎉️Our `poster` is on [ACCESS Techonlogy Symposium](https://accessts.hkust.edu.hk) !
-* 🎉️Our `paper` is selected as the <font color=Blue>Best Paper</font> in **ICCAD 2023** !
+* 🎉️I give a talk on [ACCESS summer school](https://inno-access.hk/news/access-launch-its-first-summer-school) !
+* 🎉️Our poster is on [ACCESS Techonlogy Symposium](https://accessts.hkust.edu.hk) !
+* `ICCAD` Our paper is selected as the <font color=Blue>Best Paper</font> in **ICCAD 2023** !
   *Improving realistic worst-case performance of NVCiM DNN accelerators through training with right-censored gaussian noise*
-* 🎉️Our `paper` is on arxiv !
-  *Negative Feedback Training: A Novel Concept to Improve Robustness of NVCIM DNN Accelerators*
-* 🎉️Our `paper` is accepted by **Advanced Intelligent Systems** and selected as <font color=Blue>Back Cover</font> !
+* `AIS` Our paper is accepted by **Advanced Intelligent Systems** and selected as <font color=Blue>Back Cover</font> !
   *Recent progress on memristive convolutional neural networks for edge intelligence*
-* 🎉️Our `paper` is accepted by **IEEE Transactions on Electron Devices** !
+* `TED` Our paper is accepted by **IEEE Transactions on Electron Devices** !
   *Design of high robustness BNN inference accelerator based on binary memristors*
 
 # Talks
