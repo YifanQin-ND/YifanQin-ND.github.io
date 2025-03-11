@@ -50,17 +50,17 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   <img src="/images/meeting.jpg" alt="talk" width="50%">
 </p>
 
-# Experiences
+# Research Experiences
 
 * **AI Chip Intern**  
   *AI Chip Center for Emerging Smart Systems (ACCESS)*  
-  Hong Kong University of Science and Technology | May 2024 - July 2024  
+  *Hong Kong University of Science and Technology | May 2024 - July 2024*  
   - CNN-based arrhythmia detection accelerator
   - Achieved 150 GOPS/W energy efficiency
   - Led full-stack optimization from algorithm to chip implementation
 
 * **Research Assistant**  
-  Huazhong University of Science and Technology | Aug 2018 - Jun 2022  
+  *Huazhong University of Science and Technology | Aug 2018 - Jun 2022*  
   - Memristor-based AI accelerator design
   - Published 2 first-author papers (one backcover)
   - Developed robustness enhancement techniques
@@ -91,6 +91,10 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 1. Zheyu Yan, Yifan Qin, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
 
+# Review Experience  
+* ACM/IEEE International Conference on Computer-Aided Design (ICCAD)
+* Scientific Reports  
+
 # Chip Demo
 
 * 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK
@@ -117,3 +121,28 @@ Designed and implemented a convolutional neural network system for ventricular a
       🎥 Alternate access on Bilibili
     </a>
   </p>
+
+# Leadership and service  
+
+* **President**  
+  *Table Tennis Association of Huazhong University of Science and Technology*  
+  *Wuhan | Mar 2015 - Sep 2015*  
+  Manage and organize school sports competitions and liaise with the Sports Academy secretary and finance department for project reporting and financial reimbursement
+
+* **Member**  
+  *Team of Undergraduate Mathematical Modeling of Huazhong University of Science and Technology*  
+  *Wuhan | Aug 2014 - Sep 2016*  
+  National 2nd Prize in China Contemporary Undergraduate Mathematical Contest in Modeling  
+
+* **Museum Docent**  
+  *Wuhan Museum | Aug 2015 - Aug 2016*  
+  - The museum's opening introduction.   
+  - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  
+
+# Interesting things about me  
+
+* One of my competition paintings was included in the Hubei Province Art Textbook (China People's Education Press) for Primary School 5th grade students.
+* My favorite sport before high school was table tennis, and in high school I liked to play soccer ball with my friends.
+* I like drawing and writing, things that involve imagination.  
+
+
