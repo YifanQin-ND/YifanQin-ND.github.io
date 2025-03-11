@@ -136,9 +136,17 @@ Designed and implemented a convolutional neural network system for ventricular a
 
 * **Museum Docent**  
   *Wuhan Museum | Aug 2015 - Aug 2016*  
-  - The museum's opening introduction.   
-  - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  
+  - The museum's opening introduction. (PIC: Wuhan museum, main hall painting)  
+  <p align="center">
+  <img src="/images/wuhanmu.png" alt="museum" width="30%">
+  <img src="/images/painting.png" alt="painting" width="25%">
+</p>
 
+  - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  (PIC: Artifact)  
+  <p align="center">
+  <img src="/images/artifact.png" alt="artifact" width="25%">
+</p>
+    
 # Interesting things about me  
 
 * One of my competition paintings was included in the Hubei Province Art Textbook (China People's Education Press) for Primary School 5th grade students.
