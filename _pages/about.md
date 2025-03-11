@@ -130,7 +130,12 @@ Designed and implemented a convolutional neural network system for ventricular a
 * **Member**  
   *Team of Undergraduate Mathematical Modeling of Huazhong University of Science and Technology*  
   *Wuhan | Mar 2014 - Sep 2014*  
-  National 2nd Prize in China Contemporary Undergraduate Mathematical Contest in Modeling  
+  National 2nd Prize in China Contemporary Undergraduate Mathematical Contest in Modeling
+
+* **Athlete**  
+  *College team of table tennis in Huazhong university of science and technology*  
+  *Wuhan | May 2014 - Sep 2016*  
+  It is an honor to serve as one of the college team with many professional players, many of whom have become my good friends and have tought me to stock trading :)  
 
 * **Museum Docent**  
   *Wuhan Museum | Aug 2015 - Aug 2016*  
@@ -140,7 +145,7 @@ Designed and implemented a convolutional neural network system for ventricular a
   <img src="/images/painting.png" alt="painting" width="34%">
   </p>  
 
-  - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  (PIC: Artifact)  
+  - The Ming dynasty (1368 AD to 1644 AD) and Qing dynasty (1644 AD to 1911 AD) artifacts historical introduction.  (PIC: Artifact example)  
   <p align="center">
   <img src="/images/artifact.png" alt="artifact" width="35%">
   </p>
