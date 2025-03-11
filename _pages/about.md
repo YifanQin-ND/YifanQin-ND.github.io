@@ -124,12 +124,12 @@ Designed and implemented a convolutional neural network system for ventricular a
 
 * **President**  
   *Table Tennis Association of Huazhong University of Science and Technology*  
-  *Wuhan | Mar 2015 - Sep 2015*  
+  *Wuhan | Aug 2014 - Aug 2015*  
   Manage and organize school sports competitions and liaise with the Sports Academy secretary and finance department for project reporting and financial reimbursement
 
 * **Member**  
   *Team of Undergraduate Mathematical Modeling of Huazhong University of Science and Technology*  
-  *Wuhan | Aug 2014 - Sep 2016*  
+  *Wuhan | Mar 2014 - Sep 2014*  
   National 2nd Prize in China Contemporary Undergraduate Mathematical Contest in Modeling  
 
 * **Museum Docent**  
@@ -147,7 +147,7 @@ Designed and implemented a convolutional neural network system for ventricular a
     
 # Interesting things about me  
 
-* One of my competition paintings was included in the Hubei Province Art Textbook (China People's Education Press).
+* One of my paintings was included in the Hubei Province Art Textbook (China People's Education Press).
 * My favorite sport before high school was table tennis, and in high school I liked to play soccer ball with my friends.
 * I like drawing and writing, things that involve imagination.
 * I like spending time with my friends in GYM.
