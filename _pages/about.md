@@ -143,6 +143,7 @@ Designed and implemented a convolutional neural network system for ventricular a
 
 * One of my competition paintings was included in the Hubei Province Art Textbook (China People's Education Press) for Primary School 5th grade students.
 * My favorite sport before high school was table tennis, and in high school I liked to play soccer ball with my friends.
-* I like drawing and writing, things that involve imagination.  
+* I like drawing and writing, things that involve imagination.
+* I like spending time with my friends in GYM.  
 
 
