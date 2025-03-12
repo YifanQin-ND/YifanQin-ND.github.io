@@ -161,5 +161,4 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   <img src="/images/travel.jpg" alt="travel" width="30%">
 </p>  
 
-*"风筝不断线" --- Guanzhong Wu*  
-*"The higher the kite soars into boundless skies, the freer its dance becomes—yet must never sever its tether, for that slender thread weaves an ethereal bond between me and the people, spanning a thousand miles of silent communion."*  
+*"风筝不断线" --- Guanzhong Wu*    
