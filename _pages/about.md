@@ -67,9 +67,13 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 **Journal**
 
-1. Han Bao, Yifan Qin, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In:Frontiers in Electronics 3 (2022), p. 954661.
-2. Yifan Qin, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convo- lutional neural networks for edge intelligence”. In:Advanced Intelligent Systems 2.11 (2020), p. 2000114. (**<font color=Blue>Back Cover</font>**).
-3. Yifan Qin, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices 67.8 (2020), pp. 3435–3441.
+1. Yifan Qin, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators”. In: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (2025). (under review).
+   
+1. Han Bao, Yifan Qin, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In: Frontiers in Electronics 3 (2022), p. 954661.
+
+1. Yifan Qin, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convolutional neural networks for edge intelligence”. In: Advanced Intelligent Systems 2.11 (2020), p. 2000114. (**<font color=Blue>Back Cover</font>**).
+  
+1. Yifan Qin, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices 67.8 (2020), pp. 3435–3441.
 
 **Conference**
 
@@ -82,8 +86,6 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 1. Likai Pei\*, Yifan Qin\*, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024. (\*Equal contribution)(acceptance rate 24%)(**<font color=Blue>2024 William J. McCalla Best Paper Award Candidate</font>**)(10 out of 802 submissions)
 
 1. Yifan Qin, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.(acceptance rate 24%)
-
-1. Yifan Qin, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Negative Feedback Training: A Novel Concept to Improve Robustness of NVCiM DNN Accelerators”. In: arXiv preprint arXiv:2305.14561 (2023). (Under review)
 
 1. Zheyu Yan, Yifan Qin, Xiaobo Sharon Hu, and Yiyu Shi. “On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators”. In: 2023 IEEE 36th International System-on-Chip Conference (SOCC). IEEE. 2023, pp. 1–6.
 
