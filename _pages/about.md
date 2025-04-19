@@ -93,7 +93,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Review Experience  
 * ACM/IEEE International Conference on Computer-Aided Design (ICCAD)
-* Scientific Reports  
+* Scientific Reports
+* Great Lakes Symposium on VLSI Conference (GLSVLSI)  
 
 # Chip Demo
 
