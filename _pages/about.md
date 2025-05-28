@@ -161,8 +161,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 *My PhD*  
 <p align="center">
-  <img src="/images/travel.jpg" alt="travel" width="20%">
-  <img src="/images/DC_Yifan.jpg" alt="travel" width="40%">
+  <img src="/images/travel.jpg" alt="travel" width="16%">
+  <img src="/images/DC_Yifan.JPG" alt="travel" width="50%">
 </p>  
 
 *"风筝不断线" --- Guanzhong Wu*    
