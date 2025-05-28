@@ -156,12 +156,13 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 *My Highschool*
 <p align="center">
-  <img src="/images/highschool.jpg" alt="highschool" width="30%">
+  <img src="/images/highschool.jpg" alt="highschool" width="20%">
 </p>   
 
 *My PhD*  
 <p align="center">
-  <img src="/images/travel.jpg" alt="travel" width="30%">
+  <img src="/images/travel.jpg" alt="travel" width="15%">
+  <img src="/images/travel2.jpg" alt="travel" width="40%">
 </p>  
 
 *"风筝不断线" --- Guanzhong Wu*    
