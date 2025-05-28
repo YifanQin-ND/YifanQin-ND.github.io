@@ -156,12 +156,12 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 *My Highschool*
 <p align="center">
-  <img src="/images/highschool.jpg" alt="highschool" width="20%">
+  <img src="/images/highschool.jpg" alt="highschool" width="25%">
 </p>   
 
 *My PhD*  
 <p align="center">
-  <img src="/images/travel.jpg" alt="travel" width="15%">
+  <img src="/images/travel.jpg" alt="travel" width="20%">
   <img src="/images/DC_Yifan.jpg" alt="travel" width="40%">
 </p>  
 
