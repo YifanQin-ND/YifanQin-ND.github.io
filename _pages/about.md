@@ -17,6 +17,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # News
 
+* `TCAD` Our paper is accepted by **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems** !
+  *NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators*
 * `ISSCC` Our paper is accepted by **ISSCC 2025** !
   *A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference*
 * `ICCAD` Our paper is selected as the <font color=Blue>Best Paper Candidate</font> in **ICCAD 2024** !
@@ -67,7 +69,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 **Journal**
 
-1. Yifan Qin⭐, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators”. In: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (2025). (under review).
+1. Yifan Qin⭐, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators”. In: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (2025).
    
 1. Han Bao, Yifan Qin⭐, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In: Frontiers in Electronics 3 (2022), p. 954661.
 
