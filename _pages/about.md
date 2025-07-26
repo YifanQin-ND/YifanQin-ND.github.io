@@ -102,7 +102,7 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 * 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK  
 
-  Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Led the full-stack design, from UI to backend, achieving substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.  
+  Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Full-stack design from UI to backend achieves substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.  
 
   <p align="left">  
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
