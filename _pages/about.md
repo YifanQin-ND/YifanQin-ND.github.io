@@ -55,9 +55,9 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 * **AI Chip Intern**  
   *AI Chip Center for Emerging Smart Systems (ACCESS)*  
   *Hong Kong University of Science and Technology | May 2024 - July 2024*  
-  - CNN-based arrhythmia detection accelerator
+  - Low-uncertainty ventricular arrhythmia detection accelerator
   - Achieved 150 GOPS/W energy efficiency
-  - Led full-stack optimization from algorithm to chip implementation
+  - Full-stack optimization from algorithm to chip implementation
 
 * **Research Assistant**  
   *Huazhong University of Science and Technology | Aug 2018 - Jun 2022*  
