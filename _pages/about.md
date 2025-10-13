@@ -79,6 +79,8 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 **Conference**
 
+1. Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin⭐, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi, "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective," in Proc. of IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025.
+
 1. Yifan Qin⭐, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
 
 1. Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin⭐, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi and Ningyuan Cao, “A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference,” in Proc. of IEEE International Solid- State Circuits Conference (ISSCC), 2025.
@@ -94,7 +96,6 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
 
 # Review Experience  
-* ACM/IEEE International Conference on Computer-Aided Design (ICCAD)
 * Scientific Reports
 * Great Lakes Symposium on VLSI Conference (GLSVLSI)  
 
