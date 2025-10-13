@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-I am a 4th-year PhD candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust AI accelerator, software/hardware codesign, and efficient LLM. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received BS and MS degree from Huazhong University of Science and Technology.
+I am a 4th-year Ph.D. candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust AI accelerator, software/hardware codesign, and efficient LLM. Now I am very fortunate to work with Prof. Yiyu Shi and Prof. X. Sharon Hu, University of Notre Dame. Before my PhD study, I received B.S. and M.S. degree from Huazhong University of Science and Technology.
 
 You can find my CV [here](/files/Yifan_CV.pdf).
 
