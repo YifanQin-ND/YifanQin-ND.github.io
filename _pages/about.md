@@ -95,9 +95,16 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
 
+**Patent**  
+1. A hardware neural network batch normalization system  
+   {CN202011251999.9 · Issued May 20, 2022} Yi Li, Yifan Qin, Xiangshui Miao
+1. A matrix-vector multiplication circuit and calculation method  
+   {CN201910792384.8 · Issued Oct 8, 2021} Yi Li, Yifan Qin, Xiangshui Miao
+
 # Review Experience  
 * Scientific Reports
-* Great Lakes Symposium on VLSI Conference (GLSVLSI)  
+* Great Lakes Symposium on VLSI Conference (GLSVLSI)
+* the International Conference on Acoustics, Speech, and Signal Processing (ICASSP)  
 
 # Chip Demo
 
