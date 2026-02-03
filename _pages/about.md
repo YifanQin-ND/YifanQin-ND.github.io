@@ -9,42 +9,48 @@ redirect_from:
 
 # About
 
-I am a 4th-year Ph.D. candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust AI accelerator, software/hardware codesign, and efficient LLM. Before my PhD study, I received B.S. and M.S. degree from Huazhong University of Science and Technology.
+I am a fourth-year Ph.D. candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust machine leanrning systems, efficient LLMs inference and deployment and optimization model under system constraint. Before my PhD study, I received bachelor and master degree from Huazhong University of Science and Technology.
 
 You can find my CV [here](/files/Yifan_CV.pdf).
 
-Feel free to contact me if you have any idea or project to share, email: yqin3 [at] nd [dot] edu.
+I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
 
-# News
+## News
 
-* `TCAD` Our paper is accepted by **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems** !
-  *NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators*
-* `ISSCC` Our paper is accepted by **ISSCC 2025** !
-  *A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference*
-* `ICCAD` Our paper is selected as the <font color=Blue>Best Paper Candidate</font> in **ICCAD 2024** !
-  *Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks*
-* `ASP-DAC` Our paper is accepted by **ASP-DAC 2025** !
-  *A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection*
-* `ICCAD` Our paper is accepted by **ICCAD 2024** !
-  *TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators*
-* `ICCAD` Our paper is accepted by **ICCAD 2024** !
-  *Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks*
-* 🎉️I give a talk on [ACCESS summer school](https://inno-access.hk/news/access-launch-its-first-summer-school) !
-* 🎉️Our poster is on [ACCESS Techonlogy Symposium](https://accessts.hkust.edu.hk) !
-* `ICCAD` Our paper is selected as the <font color=Blue>Best Paper</font> in **ICCAD 2023** !
-  *Improving realistic worst-case performance of NVCiM DNN accelerators through training with right-censored gaussian noise*
-* `AIS` Our paper is accepted by **Advanced Intelligent Systems** and selected as <font color=Blue>Back Cover</font> !
-  *Recent progress on memristive convolutional neural networks for edge intelligence*
-* `TED` Our paper is accepted by **IEEE Transactions on Electron Devices** !
-  *Design of high robustness BNN inference accelerator based on binary memristors*
+- **[02/2025]** Our work on uncertainty-aware and energy-efficient ML inference was accepted to **ISSCC 2025**.  
+  *Uncertainty-aware ML inference system for real-time ventricular arrhythmia detection under ultra-low energy constraints.*
 
-# Talks
+- **[01/2025]** Our paper on negative feedback–based training for robust and efficient neural networks was accepted to **IEEE TCAD**.  
+  *NeFT: Negative Feedback Training to Improve Robustness of Neural Networks under noisy and constrained inference.*
 
-* A talk is given in Computer science department, Shandong University (SDU), Aug 2024.
-* A talk is given in Electrical engineering department, Zhejiang University (ZJU), Aug 2024.
-* A talk is given in University of Michigan – Shanghai Jiao Tong University Joint Institute, Shanghai Jiao Tong University (SJTU), Aug 2024.
-* A talk is given in Electrical engineering department, Southern University of Science and Technology (SUSTech), July 2024.
-* A talk is given in AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong University of Science and Technology (HKUST), June 2024.
+- **[12/2024]** Our work was selected as a **Best Paper Award Candidate** at **ICCAD 2024**.  
+  *Uncertainty-aware learning and inference for biomedical ML systems.*
+
+- **[10/2024]** Two papers on efficient and robust ML inference were accepted to **ICCAD 2024**.  
+  Topics include parameter sharing for efficient deployment and uncertainty-aware biomedical ML systems.
+
+- **[09/2024]** Our work on efficient CNN inference for real-time healthcare applications was accepted to **ASP-DAC 2025**.
+
+- **[11/2023]** Our paper on worst-case robust training under noisy inference conditions received the **Best Paper Award** at **ICCAD 2023**.
+
+- **[2023]** Our survey on memristive neural networks for edge intelligence was published in **Advanced Intelligent Systems** and featured as a **Back Cover Article**.
+
+## Talks
+
+- **Department of Computer Science**, Shandong University (SDU), Aug 2024  
+  *Efficient and Robust Machine Learning under System and Noise Constraints*
+
+- **Department of Electrical Engineering**, Zhejiang University (ZJU), Aug 2024  
+  *Uncertainty-aware ML Inference for Real-World Deployment*
+
+- **University of Michigan – Shanghai Jiao Tong University Joint Institute**, Shanghai Jiao Tong University, Aug 2024  
+  *Robust and Efficient ML Systems: From Training to Deployment*
+
+- **Department of Electrical Engineering**, Southern University of Science and Technology (SUSTech), Jul 2024  
+  *Efficient ML Inference for Resource-Constrained Systems*
+
+- **AI Chip Center for Emerging Smart Systems (ACCESS)**, Hong Kong University of Science and Technology, Jun 2024  
+  *End-to-End Efficient ML Systems under Practical Constraints*
 
 <p align="center">
   <img src="/images/meeting.jpg" alt="talk" width="50%">
@@ -52,48 +58,52 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Research Experiences
 
-* **AI Chip Intern**  
-  *AI Chip Center for Emerging Smart Systems (ACCESS)*  
-  *Hong Kong University of Science and Technology | May 2024 - July 2024*  
-  - Low-uncertainty ventricular arrhythmia detection accelerator
-  - Achieved 150 GOPS/W energy efficiency
-  - Full-stack optimization from algorithm to chip implementation
-
 * **Research Assistant**  
-  *Huazhong University of Science and Technology | Aug 2018 - Jun 2022*  
-  - Memristor-based AI accelerator design
-  - Published 2 first-author papers (one backcover)
-  - Developed robustness enhancement techniques
+  *University of Notre Dame, Notre Dame, IN | Aug 2022 - present*  
+  - Developed robust and efficient training and inference methods for machine learning models, including large language models (LLMs), by introducing a negative feedback–based training strategy and a lightweight parameter-sharing mechanism to reduce inference cost while maintaining accuracy under noise and system constraints.
+  - Analyzed prediction uncertainty to characterize model reliability under noisy and constrained inference conditions, enabling robust and risk-aware deployment.
+  - Published multiple first-author papers in top-tier conferences and journals on efficient and robust machine learning.
+ 
+* **Research Internship**  
+  *AI Chip Center for Emerging Smart Systems (ACCESS), Hong Kong | May 2024 - July 2024*  
+  - Developed an efficient ML pipeline for real-time ventricular arrhythmia detection under strict latency and energy constraints.
+  - Applied quantization and pruning techniques to reduce inference cost while preserving detection accuracy in a deployment-oriented setting.
+  - Validated the approach in a realistic end-to-end system, including real-time inference and monitoring, demonstrating reliable performance for healthcare applications.
+ 
+* **Research Assistant**  
+  *Huazhong University of Science and Technology, Wuhan, China | Aug 2018 - Jun 2022*  
+  - Conducted research on low-bit and quantization-aware learning methods for CNNs, improving robustness and accuracy-efficiency trade-offs under non-ideal inference conditions.
+  - Published two papers in journals, including one featured as a journal back-cover article.
 
 # Publications
 
 **Journal**
 
-1. Yifan Qin⭐, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators”. In: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (2025).
+1. Yifan Qin⭐, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators”. In: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'25).
    
-1. Han Bao, Yifan Qin⭐, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In: Frontiers in Electronics 3 (2022), p. 954661.
+1. Han Bao, Yifan Qin⭐, Jia Chen, Ling Yang, Jiancong Li, Houji Zhou, Yi Li, and Xiangshui Miao. “Quantization and sparsity-aware processing for energy-efficient NVM-based convolutional neural networks”. In: Frontiers in Electronics (FE'22).
 
-1. Yifan Qin⭐, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convolutional neural networks for edge intelligence”. In: Advanced Intelligent Systems 2.11 (2020), p. 2000114. (**<font color=Blue>Back Cover</font>**).
+1. Yifan Qin⭐, Han Bao, Feng Wang, Jia Chen, Yi Li, and Xiangshui Miao. “Recent progress on memristive convolutional neural networks for edge intelligence”. In: Advanced Intelligent Systems (AIS'20) (**<font color=Blue>Journal Back Cover</font>**).
   
-1. Yifan Qin⭐, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices 67.8 (2020), pp. 3435–3441.
+1. Yifan Qin⭐, Rui Kuang, Xiaodi Huang, Yi Li, Jia Chen, and Xiangshui Miao. “Design of high robustness BNN inference accelerator based on binary memristors”. In: IEEE Transactions on Electron Devices (TED'20).
 
 **Conference**
 
-1. Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin⭐, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi, "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective," in Proc. of IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025.
+1. Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin⭐, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi, "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective," in Proc. of IEEE International Conference on Bioinformatics and Biomedicine (BIBM'25).
 
-1. Yifan Qin⭐, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.
+1. Yifan Qin⭐, Zhenge Jia, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu and Yiyu Shi, "A 10.60 μW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection," in Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC'25).
 
-1. Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin⭐, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi and Ningyuan Cao, “A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference,” in Proc. of IEEE International Solid- State Circuits Conference (ISSCC), 2025.
+1. Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin⭐, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi and Ningyuan Cao, “A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference,” in Proc. of IEEE International Solid- State Circuits Conference (ISSCC'25).
 
-1. Yifan Qin⭐, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2024.
+1. Yifan Qin⭐, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi, "Sustainable Deployment of Deep Neural Networks on Non-Volatile Compute-in-Memory Accelerators". In: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS'24).
   
-1. Likai Pei\*, Yifan Qin\*⭐, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024. (\*Equal contribution)(acceptance rate 24%)(**<font color=Blue>2024 William J. McCalla Best Paper Award Candidate</font>**)(10 out of 802 submissions)
+1. Likai Pei\*, Yifan Qin\*⭐, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24). (\*Equal contribution)(acceptance rate 24%)(**<font color=Blue>2024 William J. McCalla Best Paper Award Candidate</font>**)(10 out of 802 submissions)
 
-1. Yifan Qin⭐, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.(acceptance rate 24%)
+1. Yifan Qin⭐, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24).(acceptance rate 24%)
 
-1. Zheyu Yan, Yifan Qin⭐, Xiaobo Sharon Hu, and Yiyu Shi. “On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators”. In: 2023 IEEE 36th International System-on-Chip Conference (SOCC). IEEE. 2023, pp. 1–6.
+1. Zheyu Yan, Yifan Qin⭐, Xiaobo Sharon Hu, and Yiyu Shi. “On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators”. In: 2023 IEEE 36th International System-on-Chip Conference (SOCC'23).
 
-1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE. 2023, pp. 1–9. (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
+1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD'23). (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
 
 **Patent**  
 1. A hardware neural network batch normalization system  
@@ -103,14 +113,22 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
 
 # Review Experience  
 * Scientific Reports
-* Great Lakes Symposium on VLSI Conference (GLSVLSI)
-* the International Conference on Acoustics, Speech, and Signal Processing (ICASSP)  
+* Great Lakes Symposium on VLSI Conference (GLSVLSI'25)
+* the International Conference on Acoustics, Speech, and Signal Processing (ICASSP'25)  
 
-# Chip Demo
+# Efficient and Robust ML Inference: End-to-End System Demo
 
-* 06/2024 **Life-Threatening Ventricular Arrhythmia Detection Soft/Hard-ware Co-Design Accelerator (AC-Codesign V1)** ——Access center, HK  
+* 06/2024 **Real-Time Ventricular Arrhythmia Detection: Efficient ML Inference System** — ACCESS Center, HK
 
-  Designed and implemented a convolutional neural network system for ventricular arrhythmia detection with a 40nm LP TSMC CNN accelerator, delivering a deployable chip demo. Full-stack design from UI to backend achieves substantial reductions in inference latency and energy consumption through optimized quantization and pruning techniques, demonstrating high-performance real-time detection capabilities.  
+  Developed an end-to-end machine learning inference system for life-threatening ventricular arrhythmia detection under strict latency and energy constraints.  
+  The system demonstrates how efficient and robust ML inference can be achieved in realistic deployment environments.
+
+  Key techniques include:
+  - Quantization- and pruning-aware model design to reduce inference cost while preserving detection accuracy  
+  - System-aware inference optimization to meet real-time latency and energy budgets  
+  - End-to-end validation with real-time monitoring, illustrating reliable deployment of ML models in safety-critical settings
+
+**Demo snapshots:** real-time inference pipeline, hardware-integrated deployment, and monitoring interface.
 
   <p align="left">  
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
@@ -119,15 +137,39 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   </p>  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/v08EoR8vLf0?si=Ba65_yOVjUWwo1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-* 02/2025 **A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference** ——ISSCC conference, SF  
-  65nm Bayesian Convolutional Neural Network (Bayes-CNN) accelerator for VA detection, delivering low-power and UQ-enabled VA detection, ensuring reliable performance under out-of-distribution data, hardware imperfections and temperature variations. Led the software algorithm part and engaged in UI and hardware design.
+* 02/2025 **Uncertainty-Aware ML Inference for Real-Time Ventricular Arrhythmia Detection** — ISSCC, San Francisco
+  Developed an uncertainty-aware machine learning inference system for life-threatening ventricular arrhythmia detection under strict energy and reliability constraints.
+
+  The system integrates Bayesian neural network inference with uncertainty quantification to enable reliable decision-making under:
+  - Out-of-distribution (OOD) input data  
+  - Hardware non-idealities variations  
+  - Ultra-low energy budgets (1.75 μJ per inference)
+
+  I led the design of the ML algorithms and uncertainty modeling, and contributed to end-to-end system integration and real-time monitoring, demonstrating robust deployment of uncertainty-aware ML inference in safety-critical environments.
+
+  **Demo snapshots:** real-time uncertainty-aware inference pipeline and system validation.
   <p align="center">
   <img src="/images/ISSCCdemo.jpg" alt="isscc demo" width="40%">
   </p>  
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-oKsR74Ogl8?si=F3l1_1K_oRkFraWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-# Leadership and service  
+# Honors & Awards
+
+- **William J. McCalla Best Paper Award**, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023  
+  *(2 out of 750 submissions)*
+
+- **William J. McCalla Best Paper Award Candidate**, IEEE/ACM ICCAD, 2024  
+  *(10 out of 802 submissions)*
+
+- **Young Fellow**, Design Automation Conference (DAC), 2023–2025  
+  *(selected for three consecutive years)*
+
+- **Outstanding Graduate**, Huazhong University of Science and Technology (HUST), 2020–2021
+
+- **National Second Prize**, China Undergraduate Mathematical Modeling Contest, 2015
+    
+## About Me (Optional)
 
 * **President**  
   *Table Tennis Association of Huazhong University of Science and Technology*  
@@ -156,14 +198,14 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   <p align="center">
   <img src="/images/artifact.png" alt="artifact" width="35%">
   </p>
-    
-# Interesting things about me  
 
-* One of my paintings was included in the Hubei Province Art Textbook (China People's Education Press).
-* My favorite sport before high school was table tennis, and in high school I liked to play soccer ball with my friends.
-* I like drawing and writing, things that involve imagination.
-* I like spending time with my friends in GYM.
+Outside of research, I have a long-standing interest in art and creative expression.  
+One of my paintings was included in a provincial-level art textbook published by the People's Education Press in China.
 
+I enjoy drawing and writing, activities that foster imagination and long-term creative thinking.  
+I also stay active through sports, including table tennis and soccer, and regularly work out at the gym.
+
+<!--
 *My Highschool*
 <p align="center">
   <img src="/images/highschool.jpg" alt="highschool" width="25%">
@@ -174,5 +216,6 @@ Feel free to contact me if you have any idea or project to share, email: yqin3 [
   <img src="/images/travel.jpg" alt="travel" width="16%">
   <img src="/images/DC_Yifan.JPG" alt="travel" width="50%">
 </p>  
+-->
 
 *"风筝不断线" --- Guanzhong Wu*    
