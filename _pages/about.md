@@ -138,6 +138,7 @@ I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/v08EoR8vLf0?si=Ba65_yOVjUWwo1Rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 * 02/2025 **Uncertainty-Aware ML Inference for Real-Time Ventricular Arrhythmia Detection** — ISSCC, San Francisco
+  
   Developed an uncertainty-aware machine learning inference system for life-threatening ventricular arrhythmia detection under strict energy and reliability constraints.
 
   The system integrates Bayesian neural network inference with uncertainty quantification to enable reliable decision-making under:
