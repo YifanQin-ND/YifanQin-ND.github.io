@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust machine leanrning systems, efficient LLMs inference and deployment and optimization model under system constraint. Before my PhD study, I received bachelor and master degree from Huazhong University of Science and Technology.
 
-You can find my CV [here](/files/Yifan_CV.pdf).
+You can find my CV [here](/files/YifanQin_CV_ML_.pdf).
 
 I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
 
