@@ -128,7 +128,7 @@ I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
   - System-aware inference optimization to meet real-time latency and energy budgets  
   - End-to-end validation with real-time monitoring, illustrating reliable deployment of ML models in safety-critical settings
 
-**Demo snapshots:** real-time inference pipeline, hardware-integrated deployment, and monitoring interface.
+  **Demo snapshots:** real-time inference pipeline, hardware-integrated deployment, and monitoring interface.
 
   <p align="left">  
   <img src="/images/VA(HK)_demo3.png" alt="demo" width="30%">
@@ -149,9 +149,11 @@ I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
   I led the design of the ML algorithms and uncertainty modeling, and contributed to end-to-end system integration and real-time monitoring, demonstrating robust deployment of uncertainty-aware ML inference in safety-critical environments.
 
   **Demo snapshots:** real-time uncertainty-aware inference pipeline and system validation.
+  <!--
   <p align="center">
   <img src="/images/ISSCCdemo.jpg" alt="isscc demo" width="40%">
-  </p>  
+  </p>
+  -->
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-oKsR74Ogl8?si=F3l1_1K_oRkFraWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
