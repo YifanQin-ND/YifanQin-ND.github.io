@@ -9,11 +9,12 @@ redirect_from:
 
 # About
 
-I am a fourth-year Ph.D. candidate from [Department of Computer Science and Engineering](https://cse.nd.edu), University of Notre Dame. My research interest includes efficient and robust machine learning systems, efficient LLMs inference and deployment and optimization model under system constraint. Before my PhD study, I received bachelor and master degree from Huazhong University of Science and Technology.
+I am a fourth-year Ph.D. candidate in [Computer Science and Engineering](https://cse.nd.edu) at the University of Notre Dame. My research focuses on efficient and robust machine learning systems, efficient LLMs inference and deployment, and models optimization under system constraints. Before my PhD, I received a bachelor's and master's degree from Huazhong University of Science and Technology.
 
 You can find my CV [here](/files/YifanQin_CV_ML_.pdf).
 
-I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
+I am actively seeking industry internships and full-time opportunities.  
+Contact: yqin3 [at] nd [dot] edu
 
 ## News
 
@@ -99,11 +100,11 @@ I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
   
 1. Likai Pei\*, Yifan Qin\*⭐, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis, Zhenge Jia, Michael Niemier, Yiyu Shi, X. Sharon Hu and Ningyuan Cao. “Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24). (\*Equal contribution)(acceptance rate 24%)(**<font color=Blue>2024 William J. McCalla Best Paper Award Candidate</font>**)(10 out of 802 submissions)
 
-1. Yifan Qin⭐, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24).(acceptance rate 24%)
+1. Yifan Qin⭐, Zheyu Yan, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “TSB: Tiny Shared Block for Efficient DNN Deployment on NVCIM Accelerators”. In: IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24). (acceptance rate 24%)
 
 1. Zheyu Yan, Yifan Qin⭐, Xiaobo Sharon Hu, and Yiyu Shi. “On the viability of using LLMs for SW/HW co-design: An example in designing CiM DNN accelerators”. In: 2023 IEEE 36th International System-on-Chip Conference (SOCC'23).
 
-1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case perfor- mance of NVCiM DNN accelerators through training with right-censored gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD'23). (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
+1. Zheyu Yan, Yifan Qin⭐, Wujie Wen, Xiaobo Sharon Hu, and Yiyu Shi. “Improving realistic worst-case performance of NVCiM DNN accelerators through training with right-censored Gaussian noise”. In: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD'23). (**<font color=Blue>2023 William J. McCalla Best Paper Award</font>**)(2 out of 750 submissions)
 
 **Patent**  
 1. A hardware neural network batch normalization system  
@@ -177,12 +178,12 @@ I am looking for industry internship, email: yqin3 [at] nd [dot] edu.
 * **Member**  
   *Team of Undergraduate Mathematical Modeling of Huazhong University of Science and Technology*  
   *Wuhan | Mar 2014 - Sep 2014*  
-  National 2nd Prize in China Contemporary Undergraduate Mathematical Contest in Modeling
+  National Second Prize in the China Contemporary Undergraduate Mathematical Contest in Modeling
 
 * **Athlete**  
-  *College team of table tennis in Huazhong university of science and technology*  
+  *College table tennis team in Huazhong University of Science and Technology*  
   *Wuhan | May 2014 - Sep 2016*  
-  It is an honor to serve as one of the college team with many professional players, many of whom have become my good friends and have tought me to stock trading :)  
+  It is an honor to serve as one of the college team with many professional players, many of whom have become my good friends. 
 
 * **Museum Docent**  
   *Wuhan Museum | Aug 2015 - Aug 2016*  
@@ -204,12 +205,12 @@ I enjoy drawing and writing, activities that foster imagination and long-term cr
 I also stay active through sports, including table tennis and soccer, and regularly work out at the gym.
 
 <!--
-*My Highschool*
+*My high school time*
 <p align="center">
   <img src="/images/highschool.jpg" alt="highschool" width="25%">
 </p>   
 
-*My PhD*  
+*My PhD time*  
 <p align="center">
   <img src="/images/travel.jpg" alt="travel" width="16%">
   <img src="/images/DC_Yifan.JPG" alt="travel" width="50%">
