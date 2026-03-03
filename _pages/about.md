@@ -112,13 +112,10 @@ Contact: yqin3 [at] nd [dot] edu
 # Honors & Awards
 
 - **William J. McCalla Best Paper Award**, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023  
-  *(2 out of 750 submissions)*
 
 - **William J. McCalla Best Paper Award Candidate**, IEEE/ACM ICCAD, 2024  
-  *(10 out of 802 submissions)*
 
 - **Young Fellow**, Design Automation Conference (DAC), 2023–2025  
-  *(selected for three consecutive years)*
 
 - **Outstanding Graduate**, Huazhong University of Science and Technology (HUST)
 
