@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate in [Computer Science and Engineering](https://cse.nd.edu) at the University of Notre Dame. I am working at the intersection of machine learning and computer architecture, focusing on inference-efficient LLMs and hardware-aware optimization under realistic system and device constraints. Research spans algorithm--system co--design, robustness/uncertainty-aware training, and runtime--oriented evaluation.
 
-You can find my CV [here](/files/YifanQin_CV_ML_.pdf).
+You can find my CV [here](/files/YifanQin_CV_codesign_.pdf).
 
 I am actively seeking industry internships and full-time opportunities.  
 Contact: yqin3 [at] nd [dot] edu
